@@ -3,7 +3,7 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 30vmin;
   pointer-events: none;
 }
 
@@ -11,6 +11,14 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+
+/* .Text-input {
+  border-color: white !important;
+} */
+
+input {
+  color: white !important;
 }
 
 .App-header {

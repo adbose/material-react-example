@@ -1,3 +1,7 @@
+# material-react-example
+
+A simple single screen React application with Material UI components, and bootstrapped using `create-react-app`.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
